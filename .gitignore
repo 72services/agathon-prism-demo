@@ -3,3 +3,15 @@
 ################################################################################
 
 /PrismDemo/.vs
+/PrismDemo/PrismDemo/Modules/PrismDemo.Modules.ModuleName/bin
+/PrismDemo/PrismDemo/Modules/PrismDemo.Modules.ModuleName/obj
+/PrismDemo/PrismDemo/PrismDemo/bin
+/PrismDemo/PrismDemo/PrismDemo/obj
+/PrismDemo/PrismDemo/PrismDemo.Core/bin
+/PrismDemo/PrismDemo/PrismDemo.Core/obj
+/PrismDemo/PrismDemo/Services/PrismDemo.Services/bin
+/PrismDemo/PrismDemo/Services/PrismDemo.Services/obj
+/PrismDemo/PrismDemo/Services/PrismDemo.Services.Interfaces/bin
+/PrismDemo/PrismDemo/Services/PrismDemo.Services.Interfaces/obj
+/PrismDemo/PrismDemo/Tests/PrismDemo.Modules.ModuleName.Tests/bin
+/PrismDemo/PrismDemo/Tests/PrismDemo.Modules.ModuleName.Tests/obj
